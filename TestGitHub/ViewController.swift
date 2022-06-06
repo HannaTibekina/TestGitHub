@@ -11,7 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        var test = "Some code"
+        var test2 = "Some code 2"
     }
 
 
